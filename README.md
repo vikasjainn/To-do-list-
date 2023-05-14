@@ -1,2 +1,2 @@
-# To-do-list-
-To-Do lit in javascript
+# To-do-list
+To-Do lit in javascript bu Vikas
